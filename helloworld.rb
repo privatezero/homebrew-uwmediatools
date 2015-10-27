@@ -2,9 +2,9 @@
 class Helloworld < Formula
   desc ""
   homepage ""
-  url "https://github.com/privatezero/uwmediatools/archive/1.0.3.zip"
+  url "https://github.com/privatezero/uwmediatools/archive/1.0.4.zip"
   version "1.0"
-  sha256 "b678e63e3586070031d3cc7231bb2c24dcd17484ecd14fdb70c255a1ac62b7de"
+  sha256 "b46f0101a7619e311b9a259a26773e8591763f68b97a417d2f10539e3079959d"
   
   depends_on "ffmpeg" => [ 'with-ffplay', 'with-libass', 'with-freetype', 'with-faac' ]
   depends_on 'mediainfo'
