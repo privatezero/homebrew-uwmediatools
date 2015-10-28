@@ -14,6 +14,7 @@ class Helloworld < Formula
   def install
     bin.install 'helloworld'
     bin.install 'dvtest'
+    bin.install 'compliancecheck'
    
   end
 end
