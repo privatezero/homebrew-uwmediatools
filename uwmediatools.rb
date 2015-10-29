@@ -2,7 +2,7 @@
 class Uwmediatools < Formula
   desc ""
   homepage ""
-  url "/usr/local/Library/Formula/uwmediatools.rb"
+  url "https://github.com/privatezero/uwmediatools/archive/1.0.7.zip"
   sha256 ""
 
   
