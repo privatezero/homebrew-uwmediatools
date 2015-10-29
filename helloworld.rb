@@ -4,7 +4,7 @@ class Helloworld < Formula
   homepage ""
   url "https://github.com/privatezero/uwmediatools/archive/1.0.7.zip"
   version "1.0.7"
-  sha256 "4764df2df03053e51f29a7be2c0eec41bf3db30549a1efa2241f6f6a25868a7a"
+  sha256 "f2fcc9e6884cd3b6d9036a6ce4bf11132d9efca59947b723ae4f698815fb633b"
   
   depends_on "ffmpeg" => [ 'with-ffplay', 'with-libass', 'with-freetype', 'with-faac' ]
   depends_on 'mediainfo'
