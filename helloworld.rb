@@ -9,7 +9,7 @@ class Helloworld < Formula
   depends_on "ffmpeg" => [ 'with-ffplay', 'with-libass', 'with-freetype', 'with-faac' ]
   depends_on 'cask'
   depends_on 'mediainfo'
-  depends_on 'cask/casks/pashua'
+  depends_on 'cask/pashua'
 
 
  
