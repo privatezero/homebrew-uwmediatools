@@ -10,6 +10,7 @@ class Helloworld < Formula
   depends_on 'cask'
   depends_on 'mediainfo'
   depends_on 'bagit'
+  depends_on 'flac'
 
 
  
@@ -17,6 +18,7 @@ class Helloworld < Formula
     bin.install 'compliancecheck'
     bin.install 'uwmediatools'
     bin.install 'UWNormalizer'
+    bin.install 'uwaudiotools'
    
   end
 end
