@@ -2,7 +2,7 @@
 class Helloworld < Formula
   desc ""
   homepage ""
-  url "https://github.com/privatezero/uwmediatools/archive/1.1.4.zip"
+  url "https://github.com/privatezero/uwmediatools/archive/1.1.5.zip"
   version "1.1.4"
   sha256 "b78399ab186d23834953dbf9c75082f428314716b703d532196b3ce0a56f86e8"
   
@@ -19,6 +19,7 @@ class Helloworld < Formula
     bin.install 'uwmediatools'
     bin.install 'UWNormalizer'
     bin.install 'uwaudiotools'
+    bin.install 'uwoptimize'
    
   end
 end
