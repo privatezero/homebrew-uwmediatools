@@ -2,7 +2,7 @@
 class Helloworld < Formula
   desc ""
   homepage ""
-  url "https://github.com/privatezero/uwmediatools/archive/1.1.5.zip"
+  url "https://github.com/privatezero/uwmediatools/archive/1.1.6.zip"
   version "1.1.5"
   sha256 "3e8744ce8b0cbff76085d76d60ab95f259508ab88e56c3d01586d5fe6d6eaee4"
   
