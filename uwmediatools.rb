@@ -15,9 +15,8 @@ class Uwmediatools < Formula
 
  
   def install
-    bin.install 'compliancecheck'
+    bin.install 'uwmetaedit'
     bin.install 'uwmediatools'
-    bin.install 'UWNormalizer'
     bin.install 'uwaudiotools'
     bin.install 'uwoptimize'
    
