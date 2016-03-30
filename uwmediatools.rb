@@ -4,7 +4,7 @@ class Uwmediatools < Formula
   homepage ""
   url "https://github.com/privatezero/uwmediatools/archive/1.2.4.zip"
   version "1.2.4"
-  sha256 "91708011f6d4203534953c070060e44d886ca020fdbd9bfd2ff87f16dc830171"
+  sha256 "e1bf381645451bf1588c65d9fa5091fff27a92b50f56a74391ebd62ba061c22a"
   
   depends_on "ffmpeg" => [ 'with-ffplay', 'with-libass', 'with-freetype', 'with-faac' ]
   depends_on 'cask'
