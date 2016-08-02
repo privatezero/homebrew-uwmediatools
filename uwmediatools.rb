@@ -11,6 +11,7 @@ class Uwmediatools < Formula
   depends_on 'mediainfo'
   depends_on 'bagit'
   depends_on 'flac'
+  depends_on 'md5deep'
 
 
  
