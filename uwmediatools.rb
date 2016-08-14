@@ -12,6 +12,7 @@ class Uwmediatools < Formula
   depends_on 'bagit'
   depends_on 'flac'
   depends_on 'md5deep'
+  depends_on 'imagesnap'
 
 
  
