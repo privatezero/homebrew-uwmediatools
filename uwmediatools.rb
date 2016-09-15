@@ -17,11 +17,9 @@ class Uwmediatools < Formula
 
  
   def install
-    bin.install 'uwmetaedit'
     bin.install 'uwmediatools'
     bin.install 'uwaudiotools'
     bin.install 'uwoptimize'
-    bin.install 'audioaip'
    
   end
 end
