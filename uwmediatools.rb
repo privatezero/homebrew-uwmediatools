@@ -3,7 +3,7 @@ class Uwmediatools < Formula
   desc ""
   homepage ""
   url "https://github.com/privatezero/uwmediatools/archive/1.4.3.zip"
-  version "1.4.1"
+  version "1.4.3"
   sha256 "0e0771a68a156a98e81f1da05e04de1a13eeb60f9065f2443fcab8d60c889652"
   
   depends_on "ffmpeg" => [ 'with-ffplay', 'with-libass', 'with-freetype', 'with-faac' ]
