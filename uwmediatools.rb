@@ -5,8 +5,7 @@ class Uwmediatools < Formula
   url "https://github.com/privatezero/uwmediatools/archive/1.4.3.zip"
   version "1.4.3"
   sha256 "0e0771a68a156a98e81f1da05e04de1a13eeb60f9065f2443fcab8d60c889652"
-  revision 1
-  depends_on "ffmpeg" => [ 'with-ffplay', 'with-libass', 'with-freetype', 'with-faac' ]
+  revision 2
   depends_on 'cask'
   depends_on 'mediainfo'
   depends_on 'bagit'
@@ -20,7 +19,6 @@ class Uwmediatools < Formula
     bin.install 'uwmediatools'
     bin.install 'uwaudiotools'
     bin.install 'uwoptimize'
-    bin.install 'pashua.app'
     bin.install 'echoprint-decode'
   end
  
