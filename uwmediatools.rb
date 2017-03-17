@@ -20,6 +20,7 @@ class Uwmediatools < Formula
     bin.install 'uwaudiotools'
     bin.install 'uwoptimize'
     bin.install 'echoprint-decode'
+    etc.install 'test.md'
   end
  
 end
