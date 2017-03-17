@@ -2,9 +2,9 @@
 class Uwmediatools < Formula
   desc ""
   homepage ""
-  url "https://github.com/privatezero/uwmediatools/archive/1.4.3.zip"
+  url "https://github.com/privatezero/uwmediatools/archive/1.4.4.zip"
   version "1.4.3"
-  sha256 "0e0771a68a156a98e81f1da05e04de1a13eeb60f9065f2443fcab8d60c889652"
+  sha256 "cb97eb5121d4808ba3f536959b78fd36a9380f41246ca6a1726783b14be8cde8"
   revision 2
   depends_on 'cask'
   depends_on 'mediainfo'
