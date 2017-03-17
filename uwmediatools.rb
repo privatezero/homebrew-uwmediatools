@@ -16,9 +16,6 @@ class Uwmediatools < Formula
 
  
   def install
-    bin.install 'uwmediatools'
-    bin.install 'uwaudiotools'
-    bin.install 'uwoptimize'
     bin.install 'echoprint-decode'
     etc.install 'test.md'
   end
